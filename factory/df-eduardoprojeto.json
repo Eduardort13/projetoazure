@@ -1,0 +1,9 @@
+{
+	"name": "df-eduardoprojeto",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "08bd5ede-1b02-44db-9466-1799c8b8d118",
+		"tenantId": "7441d4b3-d2c5-4e48-8464-066caf81902e"
+	}
+}
